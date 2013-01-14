@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Mon Sep 24 10:28:53 EEST 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0139-f72d-ba8b-000000a7d1f8 
+on database directory C:\Documents and Settings\ann\Мои документы\NetBeansProjects\TestTask\ExternalURL  with class loader sun.misc.Launcher$AppClassLoader@12f6684 
+Loaded from file:/C:/Documents%20and%20Settings/ann/%d0%9c%d0%be%d0%b8%20%d0%b4%d0%be%d0%ba%d1%83%d0%bc%d0%b5%d0%bd%d1%82%d1%8b/NetBeansProjects/TestTask/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_03-b05
+user.dir=C:\Documents and Settings\ann\Мои документы\NetBeansProjects\TestTask
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
